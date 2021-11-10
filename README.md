@@ -13,11 +13,11 @@ In this repository there'severithing you will need to unlock the bootloader and 
 ## How to unlock the bootloader
 
 in order to unlock the bootloader you have to:
-* Turn on the "OEM Unlocker" and the "USB debugging" from the "Developer Options"
-* After that you have to click in "Mi Unlock Status" and pair your Xiaomi account with the tablet
-* Connect your device at your PC
-* Install the Xiaomi USB drivers (you could find them inside the folder "Xiaomi_Mi_Unlock_Tool_v4.5.813.51")
-** Just open MiUsbDriver.exe
-** Follow the steps
-* Now open "Miflash_unlock.exe" inside "miflash_unlock-en-5.5.1008.26" and follow the steps on the app
-* Now you should have unlocked the bootloader on you devices.
+- Turn on the "OEM Unlocker" and the "USB debugging" from the "Developer Options"
+- After that you have to click in "Mi Unlock Status" and pair your Xiaomi account with the tablet
+- Connect your device at your PC
+- Install the Xiaomi USB drivers (you could find them inside the folder "Xiaomi_Mi_Unlock_Tool_v4.5.813.51")
+  - Just open MiUsbDriver.exe
+  - Follow the steps
+- Now open "Miflash_unlock.exe" inside "miflash_unlock-en-5.5.1008.26" and follow the steps on the app
+- Now you should have unlocked the bootloader on you devices.
