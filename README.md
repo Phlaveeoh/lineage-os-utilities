@@ -23,8 +23,8 @@ in order to unlock the bootloader you have to:
 - Now you should have unlocked the bootloader on you devices.
 
 Now that you have unlocked the bootloader you should install TWRP and boot it.
+> ⚠️ **Remember to do a backup of your device sometimes to be able to restore it if something goes wrong**
 
 ## How to install TWRP and boot it
 
 it's very simple, you just have to boot the device in Fastboot mode (volume down + power) then run "twrp-installer.bat" inside "TWRP-Mi-Pad-4" and your device will boot TWRP.
-> ⚠️ **Remember to do a backup of your device sometimes to be able to restore it if something goes wrong**
