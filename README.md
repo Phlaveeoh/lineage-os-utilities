@@ -12,7 +12,7 @@ In this repository there'severithing you will need to unlock the bootloader and 
 
 ## How to unlock the bootloader
 
-in order to unlock the bootloader you have to:
+In order to unlock the bootloader you have to:
 - Turn on the "OEM Unlocker" and the "USB debugging" from the "Developer Options"
 - After that you have to click in "Mi Unlock Status" and pair your Xiaomi account with the tablet
 - Connect your device at your PC
@@ -28,7 +28,7 @@ Now that you have unlocked the bootloader you should install TWRP and boot it.
 
 ## How to install TWRP and boot it
 
-it's very simple, you just have to boot the device in Fastboot mode (volume down + power) then run "twrp-installer.bat" inside "TWRP-Mi-Pad-4" and your device will boot TWRP.
+It's very simple, you just have to boot the device in Fastboot mode (volume down + power) then run "twrp-installer.bat" inside "TWRP-Mi-Pad-4" and your device will boot TWRP.
 
 From now on you should install the [Lineage 18.1 ROM](https://sourceforge.net/projects/karin-windy/files/) and the package [MindTheGapps](http://downloads.codefi.re/jdcteam/javelinanddart/gapps).
 After that just follow the guide that i linked in the first place and here we are!
