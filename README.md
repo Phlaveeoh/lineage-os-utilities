@@ -31,4 +31,4 @@ Now that you have unlocked the bootloader you should install TWRP and boot it.
 It's very simple, you just have to boot the device in Fastboot mode (volume down + power) then run "twrp-installer.bat" inside "TWRP-Mi-Pad-4" and your device will boot TWRP.
 
 From now on you should download the [Lineage 18.1 ROM](https://sourceforge.net/projects/karin-windy/files/) and the package [MindTheGapps](http://downloads.codefi.re/jdcteam/javelinanddart/gapps).
-After that just follow the guide that i linked in the first place and here we are!
+After that just follow the guide that i linked in the first place and we are done!
