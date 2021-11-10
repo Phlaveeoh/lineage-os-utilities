@@ -8,7 +8,7 @@ If you carefully follow all the steps in the guide I linked you will surely have
 
 In this repository there'severithing you will need to unlock the bootloader and install TWRP on your Xiaomi Mi Pad 4/4 Plus (clover).
 
-> :warning: **WARNING**: *This guide only works for XIAOMI MI PAD 4 and  XIAOMI MI PAD 4 PLUS if you follow this steps for another devices will be very dangerous for the device!!*
+> ⚠️: **WARNING**: *This guide only works for XIAOMI MI PAD 4 and  XIAOMI MI PAD 4 PLUS if you follow this steps for another devices will be very dangerous for the device!!*
 
 ## How to unlock the bootloader
 
@@ -21,3 +21,10 @@ in order to unlock the bootloader you have to:
   - Follow the steps
 - Now open "Miflash_unlock.exe" inside "miflash_unlock-en-5.5.1008.26" and follow the steps on the app
 - Now you should have unlocked the bootloader on you devices.
+
+Now that you have unlocked the bootloader you should install TWRP and boot it.
+
+## How to install TWRP and boot it
+
+it's very simple, you just have to boot the device in Fastboot mode (volume down + power) then run "twrp-installer.bat" inside "TWRP-Mi-Pad-4" and your device will boot TWRP.
+> ⚠️ **Remember to do a backup of your device sometimes to be able to restore it if something goes wrong**
